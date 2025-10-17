@@ -1,4 +1,4 @@
-package com.example.vmarquezmusicapp.Screens
+package com.example.vmarquezmusicapp.screens
 
 import android.util.Log
 import androidx.compose.foundation.background
